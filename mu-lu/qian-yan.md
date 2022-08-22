@@ -1,13 +1,13 @@
 # 前言
 
-
+感谢您购买《_**Podman in Action**_》。为了更好地理解这本书，您应该
 
 {% hint style="info" %}
 1.
 {% endhint %}
 
 1. Podman: next generation container engine
-2. Command line
+2. Co您狗mmand line
 3. [Volumes](https://livebook.manning.com/book/podman-in-action/chapter-3/v-5)
 4. [Pods](https://livebook.manning.com/book/podman-in-action/chapter-4/v-5)
 5. [Customization and configuration files](https://livebook.manning.com/book/podman-in-action/chapter-5/v-5)
