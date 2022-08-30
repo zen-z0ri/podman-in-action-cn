@@ -21,4 +21,10 @@ Blog：[https://danwalsh.livejournal.com](https://danwalsh.livejournal.com/)
 
 
 **译者：张半 （**[**https://github.com/zen-z0ri**](https://github.com/zen-z0ri)**）**
+
+Mail：tungreeboo@gmail.com
+
+微信：Zenzori
+
+
 {% endhint %}
