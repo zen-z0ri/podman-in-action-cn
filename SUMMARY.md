@@ -13,14 +13,14 @@
 * [Task Lists](1-podman-xia-yi-dai-rong-qi-ji-shu/task-lists.md)
 * [Tasks](1-podman-xia-yi-dai-rong-qi-ji-shu/tasks.md)
 
-## 2 Command line
+## 2 命令行
 
-* [For Designers](2-command-line/for-designers/README.md)
-  * [Figma Integration](2-command-line/for-designers/figma-integration.md)
-* [For Engineers](2-command-line/for-engineers/README.md)
-  * [GitHub Integration](2-command-line/for-engineers/github-integration.md)
-* [For Support](2-command-line/for-support/README.md)
-  * [Intercom Integration](2-command-line/for-support/intercom-integration.md)
+* [For Designers](2-ming-ling-hang/for-designers/README.md)
+  * [Figma Integration](2-ming-ling-hang/for-designers/figma-integration.md)
+* [For Engineers](2-ming-ling-hang/for-engineers/README.md)
+  * [GitHub Integration](2-ming-ling-hang/for-engineers/github-integration.md)
+* [For Support](2-ming-ling-hang/for-support/README.md)
+  * [Intercom Integration](2-ming-ling-hang/for-support/intercom-integration.md)
 
 ## 3 Volumes
 
